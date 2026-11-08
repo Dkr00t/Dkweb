@@ -1,49 +1,83 @@
 🏴‍☠️ Termux-Hello
 
-A personal Android / Java laboratory project.
+Android Java Project — Sunday Hacker Lab
 
-Termux-Hello is a personal project developed in Java for Android, with Termux used as a development and testing environment.
+Termux-Hello is a personal Android application developed in Java, using Termux as a development and testing environment.
 
-🚀 About
-
-This project is designed to explore Android development, Java programming, system services and local testing.
+The project explores Android application development, background services, system APIs and local laboratory experiments.
 
 🛠️ Technologies
 
 - Java
 - Android SDK
-- Android Studio
+- Android Framework
+- XML
+- Shell scripting
 - Termux
-- Python
 
-📁 Project structure
+📁 Project Structure
 
 Termux-Hello/
+│
 ├── src/
 │   └── com/example/hello/
 │       ├── MainActivity.java
 │       └── ShellService.java
-├── README.md
-└── .gitignore
+│
+├── res/
+│   ├── drawable/
+│   │   └── logo.png
+│   ├── layout/
+│   │   └── activity_main.xml
+│   └── values/
+│       └── strings.xml
+│
+├── AndroidManifest.xml
+├── .gitignore
+└── README.md
 
-🎯 Objectives
+⚙️ Main Components
 
-- Learn Android development with Java.
-- Understand Android services.
-- Experiment with system APIs.
-- Build and test local features.
-- Improve Java programming skills.
+Java
 
-🔬 Environment
+- MainActivity.java — Main application activity and user interface logic.
+- ShellService.java — Android service component.
 
-Development and testing are performed in a personal Android laboratory.
+Resources
+
+- activity_main.xml — Application interface.
+- strings.xml — Application string resources.
+- logo.png — Application logo.
+
+Scripts
+
+- mybuildapk.sh — APK build script.
+- extraire-photo.sh — Image extraction utility script.
+
+Configuration
+
+- AndroidManifest.xml — Application configuration and component declarations.
+- .gitignore — Files and directories excluded from Git tracking.
+
+🎯 Project Goals
+
+- Explore Android development with Java.
+- Understand Android services and application components.
+- Experiment with Android APIs.
+- Develop and test features in a controlled environment.
+- Improve Java and Linux command-line skills.
+
+🔬 Development Environment
+
+- Android device
+- Termux
+- Java / Android SDK
+- Local testing laboratory
 
 👨‍💻 Author
 
 D.K.
 
-Learning, building and experimenting — one line of code at a time.
+From the butcher's knife to the command line.
 
----
-
-🏴‍☠️ Termux-Hello — Sunday Hacker Lab
+🏴‍☠️ Sunday Hacker Lab
