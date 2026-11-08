@@ -1,19 +1,49 @@
-Outils de piratage par DKWeb
-Créé un backdoor en python sur votre téléphone Android. 
+🏴‍☠️ Termux-Hello
 
-Copyright © DKWeb
+A personal Android / Java laboratory project.
 
-En aucun cas, les auteurs ou les titulaires de droits d'auteur ne
-pourront être tenus responsables de toute réclamation, dommage ou
-autre responsabilité, que ce soit dans le cadre d'une action
-contractuelle,délictuelle ou autre, découlant de, hors ou en
-relation avec le logiciel ou l'utilisation ou d'autres transactions
-dans le Logiciel.
+Termux-Hello is a personal project developed in Java for Android, with Termux used as a development and testing environment.
 
-Requirements :
-  - Termux
-  - Python 
-  - Ngrok
+🚀 About
 
+This project is designed to explore Android development, Java programming, system services and local testing.
 
+🛠️ Technologies
 
+- Java
+- Android SDK
+- Android Studio
+- Termux
+- Python
+
+📁 Project structure
+
+Termux-Hello/
+├── src/
+│   └── com/example/hello/
+│       ├── MainActivity.java
+│       └── ShellService.java
+├── README.md
+└── .gitignore
+
+🎯 Objectives
+
+- Learn Android development with Java.
+- Understand Android services.
+- Experiment with system APIs.
+- Build and test local features.
+- Improve Java programming skills.
+
+🔬 Environment
+
+Development and testing are performed in a personal Android laboratory.
+
+👨‍💻 Author
+
+D.K.
+
+Learning, building and experimenting — one line of code at a time.
+
+---
+
+🏴‍☠️ Termux-Hello — Sunday Hacker Lab
