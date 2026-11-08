@@ -27,8 +27,10 @@ Termux-Hello/
 ├── res/
 │   ├── drawable/
 │   │   └── logo.png
+│   │
 │   ├── layout/
 │   │   └── activity_main.xml
+│   │
 │   └── values/
 │       └── strings.xml
 │
