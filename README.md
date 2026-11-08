@@ -17,12 +17,16 @@ The project explores Android application development, background services, syste
 
 📁 Project Structure
 
+📁 Project Structure
+
 Termux-Hello/
 │
 ├── src/
-│   └── com/example/hello/
-│       ├── MainActivity.java
-│       └── ShellService.java
+│   └── com/
+│       └── example/
+│           └── hello/
+│               ├── MainActivity.java
+│               └── ShellService.java
 │
 ├── res/
 │   ├── drawable/
@@ -37,6 +41,16 @@ Termux-Hello/
 ├── AndroidManifest.xml
 ├── .gitignore
 └── README.md
+
+Main Components
+
+- "MainActivity.java" — Main application activity.
+- "ShellService.java" — Android service.
+- "AndroidManifest.xml" — Application configuration.
+- "activity_main.xml" — User interface layout.
+- "strings.xml" — Application strings.
+- "logo.png" — Application logo.
+- 
 
 ⚙️ Main Components
 
