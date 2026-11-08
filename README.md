@@ -17,61 +17,26 @@ The project explores Android application development, background services, syste
 
 📁 Project Structure
 
-📁 Project Structure
+📂 Source Code
 
-Termux-Hello/
+- "src/com/example/hello/"
+  - "MainActivity.java" — Main application activity.
+  - "ShellService.java" — Android service.
 
-│
+📂 Resources
 
-├── src/
+- "res/drawable/"
+  - "logo.png" — Application logo.
+- "res/layout/"
+  - "activity_main.xml" — User interface layout.
+- "res/values/"
+  - "strings.xml" — Application strings.
 
-│   └── com/
+📄 Configuration
 
-│       └── example/
-
-│           └── hello/
-
-│               ├── MainActivity.java
-
-│               └── ShellService.java
-
-│
-
-├── res/
-
-│   ├── drawable/
-
-│   │   └── logo.png
-
-│   │
-
-│   ├── layout/
-
-│   │   └── activity_main.xml
-
-│   │
-
-│   └── values/
-
-│       └── strings.xml
-
-│
-
-├── AndroidManifest.xml
-
-├── .gitignore
-
-└── README.md
-
-Main Components
-
-- "MainActivity.java" — Main application activity.
-- "ShellService.java" — Android service.
 - "AndroidManifest.xml" — Application configuration.
-- "activity_main.xml" — User interface layout.
-- "strings.xml" — Application strings.
-- "logo.png" — Application logo.
-- 
+- ".gitignore" — Git exclusion rules.
+- "README.md" — Project documentation.
 
 ⚙️ Main Components
 
@@ -85,11 +50,6 @@ Resources
 - activity_main.xml — Application interface.
 - strings.xml — Application string resources.
 - logo.png — Application logo.
-
-Scripts
-
-- mybuildapk.sh — APK build script.
-- extraire-photo.sh — Image extraction utility script.
 
 Configuration
 
