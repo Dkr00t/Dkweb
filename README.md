@@ -35,7 +35,7 @@ The project explores Android application development, background services, syste
 📄 Configuration
 
 - "AndroidManifest.xml" — Application configuration.
-- ".gitignore" — Git exclusion rules.
+
 - "README.md" — Project documentation.
 
 ⚙️ Main Components
@@ -51,10 +51,6 @@ Resources
 - strings.xml — Application string resources.
 - logo.png — Application logo.
 
-Configuration
-
-- AndroidManifest.xml — Application configuration and component declarations.
-- .gitignore — Files and directories excluded from Git tracking.
 
 🎯 Project Goals
 
